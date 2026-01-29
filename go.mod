@@ -1,4 +1,4 @@
-module github.com/burgr033/Latex2unicode
+module github.com/burgr033/latex2unicode
 
 go 1.25.6
 
