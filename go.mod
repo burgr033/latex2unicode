@@ -1,3 +1,4 @@
+// Deprecated: use codeberg.org/burgr/latex2unicode instead.
 module github.com/burgr033/latex2unicode
 
 go 1.25.6
